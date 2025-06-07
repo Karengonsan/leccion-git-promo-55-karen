@@ -6,6 +6,10 @@ Comando que vamos a ver en esta **lección**:
 
 - git clone <url>
 - git add . / git add -A
+- git commit -m "x"
+- git push
+- git status
+- git pull
 - ...
 
 Para escribir código ponemos las comillas así 3 arriba y 3 abajo:

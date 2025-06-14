@@ -16,5 +16,5 @@ Para escribir código ponemos las comillas así 3 arriba y 3 abajo:
 ```html
 Hola
 <p> Esto es un párrafo<p>
-    Hay un página que se llama Markdown-it.github.io con todo lo que podemos hacer (negritas, listas, poner codigo, tablas, imagenes...)
+    Hay una página que se llama Markdown-it.github.io con todo lo que podemos hacer (negritas, listas, poner codigo, tablas, imagenes...)
 ``` 
